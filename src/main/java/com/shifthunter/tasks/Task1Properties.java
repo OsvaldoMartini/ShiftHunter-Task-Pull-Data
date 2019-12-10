@@ -1,4 +1,4 @@
-package com.shifthunter.pulldata;
+package com.shifthunter.tasks;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
